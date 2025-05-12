@@ -1,5 +1,6 @@
 import Advertisement from "./Advertisement";
 import BlogSection from "./BlogSection";
+import GamifiedReferral from "./GamifiedReferral";
 import Hero from "./Hero";
 import LatestReviews from "./LatestReviews";
 import PropertyDemandHeatmap from "./PropertyDemandHeatmap";
@@ -18,6 +19,7 @@ const Home = () => {
       <PropertyDemandHeatmap></PropertyDemandHeatmap>
       <PropertyValuationTool></PropertyValuationTool>
       <BlogSection></BlogSection>
+      <GamifiedReferral></GamifiedReferral>
     </div>
   );
 };
