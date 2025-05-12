@@ -63,22 +63,22 @@ DreamKey uses modern technologies to ensure a smooth, fast, and secure user expe
 ## Screenshots
 
 ### Home Page
-![Home Page](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d1.png) 
+![Home Page](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d1.png) 
 
 ### Dream Tracker
-![Dream Tracker](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d2.png)
+![Dream Tracker](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d2.png)
 
 ### Progress Monitoring
-![Progress Monitoring](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d3.png)
+![Progress Monitoring](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d3.png)
 
 ### More Screenshots
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d4.png)
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d5.png)
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d6.png)
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d7.png)
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d8.png)
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d9.png)
-![ss](https://github.com/inzamulhaque1/DreamKeys-client/blob/main/src/assets/d10.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d4.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d5.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d6.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d7.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d8.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d9.png)
+![ss](https://github.com/RAFIQUL595/DreamKeys-client/blob/main/src/assets/d10.png)
 
 ## Getting Started
 
@@ -191,12 +191,9 @@ We welcome contributions! If you'd like to contribute to DreamKey, follow these 
 
 Feel free to reach out if you have any questions, suggestions, or feedback:
 
-- GitHub: [@inzamulhaque1](https://github.com/inzamulhaque1)
-- Email: [inzamulhaque1002@gmail.com](mailto:inzamulhaque1002@gmail.com)
+- GitHub: [@RAFIQUL595](https://github.com/RAFIQUL595)
+- Email: [rafiqulislam42002@gmail.com](mailto:rafiqulislam42002@gmail.com)
 
 ---
 
 Thanks for checking out DreamKey! Let's make your dreams come true, one step at a time. 🌟
-
-
-
