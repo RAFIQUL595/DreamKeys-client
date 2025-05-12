@@ -1,4 +1,5 @@
 import Advertisement from "./Advertisement";
+import BlogSection from "./BlogSection";
 import Hero from "./Hero";
 import LatestReviews from "./LatestReviews";
 import PropertyDemandHeatmap from "./PropertyDemandHeatmap";
@@ -16,6 +17,7 @@ const Home = () => {
       <LatestReviews></LatestReviews>
       <PropertyDemandHeatmap></PropertyDemandHeatmap>
       <PropertyValuationTool></PropertyValuationTool>
+      <BlogSection></BlogSection>
     </div>
   );
 };
