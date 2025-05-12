@@ -1,7 +1,9 @@
 import Advertisement from "./Advertisement";
 import Hero from "./Hero";
 import LatestReviews from "./LatestReviews";
+import PropertyDemandHeatmap from "./PropertyDemandHeatmap";
 import PropertyPriceRange from "./PropertyPriceRange";
+import PropertyValuationTool from "./PropertyValuationTool";
 import Slider from "./Slider";
 
 const Home = () => {
@@ -12,6 +14,8 @@ const Home = () => {
       <Slider></Slider>
       <PropertyPriceRange></PropertyPriceRange>
       <LatestReviews></LatestReviews>
+      <PropertyDemandHeatmap></PropertyDemandHeatmap>
+      <PropertyValuationTool></PropertyValuationTool>
     </div>
   );
 };
