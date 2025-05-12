@@ -1,5 +1,6 @@
 import Advertisement from "./Advertisement";
 import Hero from "./Hero";
+import LatestReviews from "./LatestReviews";
 import PropertyPriceRange from "./PropertyPriceRange";
 import Slider from "./Slider";
 
@@ -10,6 +11,7 @@ const Home = () => {
       <Advertisement></Advertisement>
       <Slider></Slider>
       <PropertyPriceRange></PropertyPriceRange>
+      <LatestReviews></LatestReviews>
     </div>
   );
 };
