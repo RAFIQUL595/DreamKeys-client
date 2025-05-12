@@ -3,6 +3,7 @@ import BlogSection from "./BlogSection";
 import GamifiedReferral from "./GamifiedReferral";
 import Hero from "./Hero";
 import LatestReviews from "./LatestReviews";
+import LiveChat from "./LiveChat";
 import PropertyDemandHeatmap from "./PropertyDemandHeatmap";
 import PropertyPriceRange from "./PropertyPriceRange";
 import PropertyValuationTool from "./PropertyValuationTool";
@@ -20,6 +21,7 @@ const Home = () => {
       <PropertyValuationTool></PropertyValuationTool>
       <BlogSection></BlogSection>
       <GamifiedReferral></GamifiedReferral>
+      <LiveChat></LiveChat>
     </div>
   );
 };
