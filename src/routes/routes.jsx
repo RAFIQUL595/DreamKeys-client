@@ -52,7 +52,7 @@ const router = createBrowserRouter([
       },
       {
         path: "property-details/:id",
-        element: <PropertyDetails></PropertyDetails>,
+        element: <PrivateRoute><PropertyDetails></PropertyDetails></PrivateRoute>,
       },
       {
         path: "login",
@@ -72,11 +72,11 @@ const router = createBrowserRouter([
       },
       {
         path: "Valuation",
-        element:<PropertyValuationTool></PropertyValuationTool>
+        element: <PropertyValuationTool></PropertyValuationTool>
       },
       {
         path: "live-Chat",
-        element:<LiveChat></LiveChat>
+        element: <LiveChat></LiveChat>
       },
 
     ],
@@ -89,15 +89,15 @@ const router = createBrowserRouter([
       // Admin
       {
         path: 'admin-stats',
-        element:<AdminStats></AdminStats>
+        element: <AdminStats></AdminStats>
       },
       {
         path: 'all-users',
-        element:<AllUsers></AllUsers>
+        element: <AllUsers></AllUsers>
       },
       {
         path: 'admin-profile',
-        element:<AdminProfile></AdminProfile>
+        element: <AdminProfile></AdminProfile>
       },
       {
         path: 'manage-properties',
@@ -105,11 +105,11 @@ const router = createBrowserRouter([
       },
       {
         path: 'manage-reviews',
-        element:<ManageReviews></ManageReviews>
+        element: <ManageReviews></ManageReviews>
       },
       {
         path: 'advertise-property',
-        element:<AdvertiseProperty></AdvertiseProperty>
+        element: <AdvertiseProperty></AdvertiseProperty>
       },
       // Agent
       {
@@ -126,7 +126,7 @@ const router = createBrowserRouter([
       },
       {
         path: 'update-property/:id',
-        element: <UpdateProperty></UpdateProperty>
+        element: <UpdateProperty></UpdateProperty>,
       },
 
       {
@@ -144,27 +144,27 @@ const router = createBrowserRouter([
       // User
       {
         path: 'my-profile',
-        element:<MyProfile></MyProfile>
+        element: <MyProfile></MyProfile>
       },
       {
         path: 'my-reviews',
-        element:<MyReviews></MyReviews>
+        element: <MyReviews></MyReviews>
       },
       {
         path: 'property-bought',
-        element:<PropertyBought></PropertyBought>
+        element: <PropertyBought></PropertyBought>
       },
       {
         path: 'wishlist',
-        element:<Wishlist></Wishlist>
+        element: <Wishlist></Wishlist>
       },
       {
         path: `make-offer/:id`,
-        element:<MakeOffer></MakeOffer>
+        element: <MakeOffer></MakeOffer>
       },
       {
         path: 'payment/:id',
-        element: <Payment></Payment>
+        element: <Payment></Payment>,
       },
       {
         path: 'user-stats',

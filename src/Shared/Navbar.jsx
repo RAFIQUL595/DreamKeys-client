@@ -178,7 +178,7 @@ const Navbar = ({ toggleTheme, theme }) => {
               <p>
                 <span>{user?.displayName}</span>
               </p>
-              <button className="btn bg-lime-500 btn-sm mr-5" onClick={logOut}>
+              <button className="btn bg-[#2563eb] text-white hover:text-black btn-sm mr-5" onClick={logOut}>
                 Sign Out
               </button>
               {/* User Avatar */}

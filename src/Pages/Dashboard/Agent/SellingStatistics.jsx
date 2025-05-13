@@ -15,7 +15,7 @@ const SellingStatistics = ({ theme }) => {
   useEffect(() => {
     const fetchPayments = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/payments", {
+        const response = await axios.get("https://dream-keys-server.vercel.app/payments", {
           params: { agentEmail },
         });
         setPayments(response.data);

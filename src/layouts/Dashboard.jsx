@@ -39,12 +39,10 @@ const Dashboard = () => {
     if (user && user.email) {
       // Ensure `user` is not null
       const userEmail = user?.email;
-      console.log(userEmail);
       axiosPublic
         .get("/users/role", { params: { email: userEmail } })
         .then((response) => {
           setUserRole(response.data.role);
-          console.log("User Role:", response.data.role);
         })
         .catch((error) => console.error("Error fetching user role:", error));
     }

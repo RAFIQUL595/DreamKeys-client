@@ -1,6 +1,6 @@
 # DreamKey
 
-![DreamKey Logo](https://i.ibb.co.com/20rpD2y8/dreamkey.jpg) <!-- Replace with your logo URL -->
+![DreamKey Logo](https://i.ibb.co.com/20rpD2y8/dreamkey.jpg)
 
 ## DreamKey
 
@@ -9,8 +9,7 @@ Welcome to **DreamKey** – an innovative platform that helps you unlock your dr
 ## Live Demo
 
 Explore DreamKey live:
-- [Live Demo 1](https://dreamkeys-bef14.web.app)
-- [Live Demo 2](https://dreamkeys-bef14.firebaseapp.com)
+- [Live Demo](https://dreamekeys.netlify.app)
 
 ## Features
 

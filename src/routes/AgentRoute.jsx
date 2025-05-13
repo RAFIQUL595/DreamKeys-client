@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import useAuth from "../hooks/useAuth";
 
-const AdminRoute = () => {
+const AgentRoute = () => {
   const [role, setRole] = useState("");
   const [isLoaded, setIsLoaded] = useState(false);
   const navigate = useNavigate();
@@ -44,4 +44,4 @@ const AdminRoute = () => {
   );
 };
 
-export default AdminRoute;
+export default AgentRoute;
