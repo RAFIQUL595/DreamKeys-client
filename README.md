@@ -9,7 +9,7 @@ Welcome to **DreamKey** – an innovative platform that helps you unlock your dr
 ## Live Demo
 
 Explore DreamKey live:
-- [Live Demo](https://dreamekeys.netlify.app)
+- [Live Demo](https://dreame-keys.web.app)
 
 ## Features
 

@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "dreamkeys-bef14"
-  }
+    "default": "dreame-keys"
+  },
+  "targets": {},
+  "etags": {}
 }

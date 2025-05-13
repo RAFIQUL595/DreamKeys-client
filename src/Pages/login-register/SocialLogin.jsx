@@ -32,6 +32,7 @@ const SocialLogin = () => {
     <div>
       <div className="flex justify-center items-center mt-4">
         <button
+          type="button"
           onClick={handleGoogleSignIn}
           className="flex items-center bg-white border border-gray-300 text-gray-700 font-semibold px-6 py-2 rounded shadow hover:shadow-md hover:bg-gray-100 transition-all duration-300"
         >
